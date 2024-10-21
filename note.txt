@@ -1,0 +1,4 @@
+per simulare la pagina su chrome aprire il cmd nella root folder e inserire:
+python -m http.server
+poi su chrome navigare alla pagina 
+http://localhost:8000/
